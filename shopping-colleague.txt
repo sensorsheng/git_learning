@@ -1,0 +1,4 @@
+#include <sys/stdio.h>
+void main(){
+	printf("cooperation");
+}
